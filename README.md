@@ -1,10 +1,20 @@
 # Library_Management_System
 
-How to use
+**How to use**
  - Just run the main.c file and you should be good to go
 
 
-What I learned
+**Features**
+- Admin / Login system
+- basic library management options (Direct record manipulation features are based on account type admin/user)
+   - Add / Delete Book
+   - Search for book
+   - Issue book to a user
+   - View all available books
+   - Edit book records
+
+
+**What I learned**
  
  * C/C++ file system
  
@@ -13,5 +23,5 @@ What I learned
  * Utilizing structs alongside the file system
 
 
-Disclaimer
+**Disclaimer**
  - Group Project / Library System / My work includes any file with Karim in it and all that's in the main.c file
