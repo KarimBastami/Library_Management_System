@@ -1,7 +1,7 @@
 # Library_Management_System
 
 **How to use**
- - Just run the main.c with the other files in the same directory you should be good to go
+ - Just run the main.c with the other files in the same directory and you should be good to go
 
 
 **Features**
