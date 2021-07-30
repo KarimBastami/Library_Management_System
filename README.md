@@ -25,3 +25,4 @@
 
 **Disclaimer**
  - Group Project / Library System / My work includes any file with Karim in it and all that's in the main.c file
+ - No security features - all data is written onto text files saved locally in the same directory as the project
