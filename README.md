@@ -1,10 +1,10 @@
 # Library_Management_System
 
-**How to use**
- - Just run the main.c with the other files in the same directory and you should be good to go
+## How to use
+ - Run the main.c with the other files in the same directory 
 
 
-**Features**
+## Features
 - Admin / Login system
 - basic library management options (Direct record manipulation features are based on account type admin/user)
    - Add / Delete Book
@@ -14,7 +14,7 @@
    - Edit book records
 
 
-**What I learned**
+## What I learned 
  
  * C/C++ file system
  
@@ -23,6 +23,6 @@
  * Utilizing structs alongside the file system
 
 
-**Disclaimer**
+## Disclaimer
  - Group Project / Library System / My work includes any file with Karim in it and all that's in the main.c file
  - No security features - all data is written onto text files saved locally in the same directory as the project
